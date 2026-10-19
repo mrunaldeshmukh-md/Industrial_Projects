@@ -1,2 +1,3 @@
 # Industrial_Projects
-Industrial Project developed during programming practice and learning.
+Industrial Project developed during Logic Building.
+
